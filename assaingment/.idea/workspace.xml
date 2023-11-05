@@ -44,16 +44,22 @@
       <recent name="Encapsulation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.overrideTest">
-    <configuration name="constructor_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor_Test" />
+  <component name="RunManager" selected="Application.abstract_Test">
+    <configuration name="abstract_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java7thAssaingment2.abstract_Test" />
       <module name="assaingment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java7thAssaingment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="encapsulationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulationTest" />
+    <configuration name="constructor_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor_Test" />
       <module name="assaingment" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.abstract_Test" />
         <item itemvalue="Application.overrideTest" />
         <item itemvalue="Application.studentTest2" />
         <item itemvalue="Application.static_test" />
         <item itemvalue="Application.constructor_Test" />
-        <item itemvalue="Application.encapsulationTest" />
       </list>
     </recent_temporary>
   </component>
