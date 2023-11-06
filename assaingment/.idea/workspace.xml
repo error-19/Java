@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83463596-3057-4aff-a415-3a7702e96d8e" name="Changes" comment="shamim">
-      <change afterPath="$PROJECT_DIR$/src/interfaceinjava/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceinjava/bananaTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceinjava/jackfruitTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceinjava/mangoTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceinjava/multipleinheritTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceinjava/treeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceinjava/water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/water.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java7thAssaingment3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java7thAssaingment3/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="83463596-3057-4aff-a415-3a7702e96d8e" name="Changes" comment="multiple inheritance" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,12 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699263549896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="multiple inheritance">
+      <option name="closed" value="true" />
+      <created>1699300029189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699300029189</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="shamim" />
-    <option name="LAST_COMMIT_MESSAGE" value="shamim" />
+    <MESSAGE value="multiple inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiple inheritance" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
