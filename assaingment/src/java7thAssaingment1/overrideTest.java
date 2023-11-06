@@ -1,5 +1,4 @@
 package java7thAssaingment1;
-
 public class overrideTest {
     public static void main(String[] args) {
         superComputer supcomputer=new superComputer();
