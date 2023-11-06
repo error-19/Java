@@ -1,5 +1,4 @@
 package java7thAssaingment3;
-
 public class Test {
     public static void main(String[] arguments) {
         cube shamim = new cube();
