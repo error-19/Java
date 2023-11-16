@@ -18,5 +18,11 @@ public class LoginApplication {
         Thread.sleep(500);
         driver.findElement(By.xpath("//button[@type='submit']")).click();
         Thread.sleep(500);
+        String expectedTitle="OrangeHRM";
+        String actualTitle=driver.getTitle();
+        System.out.println("Actual Page Title:" + " " + actualTitle);
+        if(expectedTitle.equals(actualTitle)){
+            System.out.println("Loged In Successfully and it's home page");
+        }
     }
 }
